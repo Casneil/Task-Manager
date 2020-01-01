@@ -22,3 +22,7 @@ const App = () => {
 };
 
 export default App;
+
+/* Todo:
+Add local storage for browser
+*/
